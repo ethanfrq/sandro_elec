@@ -1,6 +1,6 @@
 # Sandro Electricité
 
-Bienvenue sur le projet Sandro Electricité ! Ce projet vise à...
+Bienvenue sur le projet Sandro Electricité ! Ce projet est pour l'année scolaire 2023-2024, au lycée Costebelle 
 
 ## Table des matières
 
