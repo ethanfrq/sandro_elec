@@ -24,7 +24,7 @@ Le projet Sandro Electricité est une initiative conçue exclusivement à des fi
 [ Installation du projet sur votre propre machine. ]
 
 ```bash
-**Installer Xampp :**
+`**Installer Xampp :**`
 https://www.apachefriends.org/fr/download.html
 
 **Installer Git :**
