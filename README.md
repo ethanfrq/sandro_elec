@@ -16,7 +16,7 @@ Bienvenue sur le projet Sandro Electricité ! Ce projet vise à...
 
 ## Installation
 
-[Expliquez ici comment installer/configurer le projet sur votre propre machine.]
+[Installation du projet sur votre propre machine.]
 
 ```bash
 # Exemple de commande d'installation
