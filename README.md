@@ -38,6 +38,8 @@ Lancer xampp :
   - start Appache 
   - start MySql
 
+Mettre dans PhPMyAdmin le fichier site1 
+
 Lancer le fichier "lunch.bat"
 
 Le site sera ensuite pret est fonctionnelle, est pret a l'emploie.
