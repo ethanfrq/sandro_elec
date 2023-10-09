@@ -24,21 +24,23 @@ Le projet Sandro Electricité est une initiative conçue exclusivement à des fi
 [ Installation du projet sur votre propre machine. ]
 
 ```bash
-# Exemple de commande d'installation
-Installer Xampp :
+**Installer Xampp :**
 https://www.apachefriends.org/fr/download.html
 
-Installer Git :
+**Installer Git :**
 git clone https://github.com/git/git
 
-Installer le dossier :
+**Installer le dossier :**
 git clone https://github.com/jlmcdo/sandro_elec
 git pull
 
-Lancer xampp :
+**Lancer xampp :**
   - start Appache 
   - start MySql
 
-Lancer le fichier "lunch.bat"
+**Lancer le fichier "lunch.bat"**
 
 Le site sera ensuite pret est fonctionnelle, est pret a l'emploie.
+```
+
+
