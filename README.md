@@ -7,7 +7,7 @@ Bienvenue sur le projet Sandro Electricité ! Ce projet est pour l'année scolai
 - [Aperçu](#aperçu)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
-- [Droit](#licence)
+- [Droit](#droit)
 
 ## Aperçu
 
