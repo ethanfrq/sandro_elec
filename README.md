@@ -24,23 +24,34 @@ Le projet Sandro Electricité est une initiative conçue exclusivement à des fi
 [ Installation du projet sur votre propre machine. ]
 
 ```bash
-`**Installer Xampp :**`
+Installer Xampp :
 https://www.apachefriends.org/fr/download.html
 
-**Installer Git :**
+Installer Git :
 git clone https://github.com/git/git
 
-**Installer le dossier :**
+Installer le dossier :
 git clone https://github.com/jlmcdo/sandro_elec
 git pull
 
-**Lancer xampp :**
+Lancer xampp :
   - start Appache 
   - start MySql
 
-**Lancer le fichier "lunch.bat"**
+Lancer le fichier "lunch.bat"
 
 Le site sera ensuite pret est fonctionnelle, est pret a l'emploie.
 ```
+## Droit
+
+[ Droit du projet Sandro Electricite. ]
+
+Le projet Sandro Electricité est protégé par les lois sur les droits d'auteur et est la propriété intellectuelle de ses créateurs. Toute utilisation non autorisée, reproduction ou distribution du contenu de ce projet est strictement interdite.
+
+Ce projet est réservé à un usage éducatif et ne doit pas être utilisé à des fins commerciales sans l'autorisation expresse des détenteurs des droits.
+
+Les contributeurs au projet Sandro Electricité conservent le droit de modifier, mettre à jour et distribuer le code source conformément aux termes de la licence sous laquelle il est publié.
+
+
 
 
