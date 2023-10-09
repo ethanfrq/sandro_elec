@@ -17,6 +17,8 @@ Bienvenue sur le projet Sandro Electricité ! Ce projet est pour l'année scolai
 
 [ Utilisation de ce projet. ]
 
+Le projet Sandro Electricité est une initiative conçue exclusivement à des fins éducatives. Il a été élaboré dans le cadre d'un programme scolaire visant à fournir une expérience pratique et concrète dans ce domaine. Ce projet vise à renforcer les connaissances théoriques acquises en classe en les mettant en application dans des situations réelles. Il offre ainsi aux apprenants l'opportunité d'approfondir les compréhension des concepts fondamentaux et de développer leurs compétences pratiques dans ce domaine. Sandro Electricité représente ainsi une précieuse étape dans le parcours éducatif.
+
 ## Installation
 
 [ Installation du projet sur votre propre machine. ]
