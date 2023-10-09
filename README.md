@@ -20,4 +20,13 @@ Bienvenue sur le projet Sandro Electricité ! Ce projet vise à...
 
 ```bash
 # Exemple de commande d'installation
-commande_d_installation
+Installer Xampp :
+https://www.apachefriends.org/fr/download.html
+
+Installer le dossier :
+
+Lancer xampp :
+  - start Appache 
+  - start MySql
+
+Lancer le fichier "lunch.bat"
