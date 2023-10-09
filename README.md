@@ -41,4 +41,4 @@ Lancer xampp :
 
 Lancer le fichier "lunch.bat"
 
-Le site sera ensuite pret est fonctionnelle, est pret a l'\emploie.
+Le site sera ensuite pret est fonctionnelle, est pret a l'emploie.
