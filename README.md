@@ -33,3 +33,5 @@ Lancer xampp :
   - start MySql
 
 Lancer le fichier "lunch.bat"
+
+Le site sera ensuite pret est fonctionnelle 
