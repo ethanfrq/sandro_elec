@@ -7,16 +7,19 @@ Bienvenue sur le projet Sandro Electricité ! Ce projet est pour l'année scolai
 - [Aperçu](#aperçu)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
+- [Droit](#licence)
 
 ## Aperçu
 
-[Insérez ici une brève description de ce qu'est le projet Sandro Electricité.]
+[ Insérez ici une brève description de ce qu'est le projet Sandro Electricité. ]
+
+## Utilisation
+
+[ Utilisation de ce projet. ]
 
 ## Installation
 
-[Installation du projet sur votre propre machine.]
+[ Installation du projet sur votre propre machine. ]
 
 ```bash
 # Exemple de commande d'installation
