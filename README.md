@@ -26,7 +26,12 @@ Bienvenue sur le projet Sandro Electricité ! Ce projet est pour l'année scolai
 Installer Xampp :
 https://www.apachefriends.org/fr/download.html
 
+Installer Git :
+git clone https://github.com/git/git
+
 Installer le dossier :
+git clone https://github.com/jlmcdo/sandro_elec
+git pull
 
 Lancer xampp :
   - start Appache 
@@ -34,4 +39,4 @@ Lancer xampp :
 
 Lancer le fichier "lunch.bat"
 
-Le site sera ensuite pret est fonctionnelle 
+Le site sera ensuite pret est fonctionnelle, est pret a l'emploie.
