@@ -42,7 +42,8 @@ Lancer le fichier "lunch.bat"
 
 Le site sera ensuite pret est fonctionnelle, est pret a l'emploie.
 ```
-## Droit
+
+## Droit
 
 [ Droit du projet Sandro Electricite. ]
 
